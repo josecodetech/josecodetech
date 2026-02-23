@@ -10,8 +10,7 @@ Diplomado en Empresariales y apasionado de la tecnología. En este espacio compa
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 📺 Últimos videos en YouTube
-- [Título del Video 1](link)
-- [Título del Video 2](link)
+- [Primer modelo predictivo](https://youtu.be/RCpVPKw9-9c?si=20ZZSzYWaWYQS1aJ)
+- [One Hot Encoding](https://youtu.be/cPF20XACsgM?si=q3LO3ugo90xMHitY)
 
-### 📈 Mis Estadísticas de GitHub
-![Stats de Jose](https://github-readme-stats.vercel.app/api?username=josecodetech&show_icons=true&theme=tokyonight)
+
