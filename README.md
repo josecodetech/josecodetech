@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jose Ojeda (josecodetech) 👋
 
-![Banner](enlace-a-tu-imagen-2048x1152.jpg)
+![Banner](fondo.jpg)
 
 Diplomado en Empresariales y apasionado de la tecnología. En este espacio comparto todo el código de mis tutoriales de YouTube y mis proyectos personales.
 
